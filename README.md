@@ -1,8 +1,5 @@
-<div id="top">
-    <a>
-      <img src="logo.png" alt="Logo" width="80" height="80">
-  </a>
-</div>  
+![alt text](https://github.com/Nigma141/Nigma141/logo.jpg) 
+
   Hi, I’m @Nigma141
 
 <!---
