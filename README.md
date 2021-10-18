@@ -1,4 +1,4 @@
-![alt text](https://github.com/Nigma141/Nigma141/logo.jpg) 
+![alt text](https://github.com/Nigma141/Nigma141/blob/main/logo.jpg) 
 
   Hi, I’m @Nigma141
 
